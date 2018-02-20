@@ -1,0 +1,2 @@
+# CourCoin
+CourCoin Information
